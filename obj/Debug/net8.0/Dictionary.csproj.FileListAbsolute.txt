@@ -1,0 +1,15 @@
+D:\learning\C#\vs code\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\learning\C#\vs code\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\learning\C#\vs code\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\learning\C#\vs code\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\learning\C#\vs code\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\learning\C#\vs code\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
